@@ -108,7 +108,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 
 ⏳ Indicates in progress, ✔️ indicates completed.
 
-### Chapter 1 [In Progress, Excepted Completion: November 2024]
+### Chapter 1 [In Progress, Expected Completion: November 2024]
 
 - ✔️ Introduction of Artificial Intelligence
 - ✔️ Introduction of Deep Neural Network
@@ -116,7 +116,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction of Computer Vision
 - ✔️ Introduction of Large Language Model
 
-### Chapter 2 [In Progress, Excepted Completion: December 2024]
+### Chapter 2 [In Progress, Expected Completion: December 2024]
 
 - ✔️ Introduction to Pytorch in Raspberry Pi Environment
 - ✔️ Introduction to TensorFlow in Raspberry Pi Environment
@@ -124,7 +124,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Introduction to Ultralytics in Raspberry Pi Environment
 - ⏳ Introduction to Hailo in Raspberry Pi Environment
 
-### Chapter 3 [In Progress, Excepted Completion: January 2025]
+### Chapter 3 [In Progress, Expected Completion: January 2025]
 
 
 ### Chapter 4 [Completed: November 2024]
@@ -135,7 +135,7 @@ This course is designed to teach you how to harness the power of AI on the Raspb
 - ✔️ Run Multimodal on RaspberryPi
 - ✔️ Use Ollama with Python
 
-### Chapter 5 [In Progress, Excepted Completion: December 2024]
+### Chapter 5 [In Progress, Expected Completion: December 2024]
 
 - ✔️ Training
 - ✔️ Converting
@@ -149,7 +149,7 @@ See the [open issues](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-
 
 ## 🤝 Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please follow this [Contributor Guidelines](CONTRIBUTION.md) and contribute your own code.
 
